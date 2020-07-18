@@ -1,2 +1,2 @@
 # Tweet-Sentiment-Extraction
-This repo contains our submissions(presently a submission) for the kaggle competition tweet sentiment extraction.
+This repo contains our submissions for the kaggle competition tweet sentiment extraction.
